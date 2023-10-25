@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on embedded engineering and software engineering at [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/macdogiahuy](https://www.facebook.com/J2TEAM1337))<br>🤝 I’m looking for help with<br>🌱 I’m currently learning software engineering in FPT Uni<br>💬 Ask me about embedded if you want<br>⚡ Fun fact i'm singer part-time
+🔭 I’m currently working on embedded engineering and software engineering at [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/macdogiahuy](https://www.facebook.com/J2TEAM1337)<br>🤝 I’m looking for help with<br>🌱 I’m currently learning software engineering in FPT Uni<br>💬 Ask me about embedded if you want<br>⚡ Fun fact i'm singer part-time
 
 
 ## 🌐 Socials:
