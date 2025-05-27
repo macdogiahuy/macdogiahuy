@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on embedded engineering at FPT software and Full-stack developer at Everfit <br> 🌱 I’m currently learning software engineering in FPT University<br>💬 Ask me about embedded if you want<br>⚡ Fun fact i'm singer part-time
+🔭 I’m currently working on embedded engineering at FPT software <br> 🌱 I’m currently learning software engineering in FPT University<br>💬 Ask me about embedded if you want<br>⚡ Fun fact i'm singer part-time
 
 
 ## 🌐 Socials:
